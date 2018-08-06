@@ -11,7 +11,7 @@
   <color name="calendar_text_selected">#ffffff</color>
   <color name="calendar_text_unselected">#7ffefeff</color>
   <color name="calendar_text_highlighted">#f5f5f5</color>
-  <color name="colorAccent">#ffcf40</color>
+  <color name="colorAccent">#941815</color>
   <color name="color_red">#ef5350</color>
   <color name="state_deactivated">#7ffefeff</color>
   <color name="dateTimeRangePickerStateDefault">@android:color/black</color>
